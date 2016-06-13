@@ -1,0 +1,5 @@
+target/
+./idea/
+metastore/
+project/target/*
+project/project
